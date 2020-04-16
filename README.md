@@ -1,6 +1,6 @@
 # Terminal
 
-This theme is a fork from [Hello Friend](https://github.com/panr/hugo-theme-hello-friend) theme with some changes to fit dark mode style. The configuration is the same with original theme.
+This theme is a fork of [Hello Friend](https://github.com/panr/hugo-theme-hello-friend) theme with some changes. The configuration is the same with original theme.
 
 Demo at https://lotusirous.github.io/
 
